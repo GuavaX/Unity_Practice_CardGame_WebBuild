@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -504,4 +505,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: C:/Users/User/Documents/GitHub/Unity_Practice_CardGame_WebBuild/Web
+  playerPath: C:/Users/User/Documents/GitHub/Unity_Practice_CardGame_WebBuild/web
